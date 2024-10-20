@@ -116,7 +116,7 @@ if web == "📍States and Routes":
     
     col1, col2 = slt.columns(2)
     with col1:
-        select_type = slt.radio("Choose bus type", ("sleeper", "semi-sleeper", "others"))
+        select_type = slt.radio("Choose bus type", ("AC", "NON AC"))
     with col2:
         select_fare = slt.radio("Choose bus fare range", ("50-1000", "1000-2000", "2000 and above"))
     TIME = slt.time_input("Select the time")
