@@ -11,23 +11,6 @@ from streamlit_option_menu import option_menu
 import plotly.express as px
 import mysql.connector
 
-# Function to load route names from CSV
-def load_route_names(file_path):
-    df = pd.read_csv(file_path)
-    return df["Route_name"].tolist()
-
-# Loading bus route names
-lists_k = load_route_names("ksrtc_buses.csv")  # Kerala bus
-lists_A = load_route_names("apsrtc_buses.csv")  # Andhra bus
-lists_T = load_route_names("tgsrtc_buses.csv")  # Telangana bus
-lists_g = load_route_names("ktcl_buses.csv")  # Goa bus
-lists_R = load_route_names("rsrtc_buses.csv")  # Rajasthan bus
-lists_Ch = load_route_names("ctu_buses.csv")  # Chandigarh bus
-lists_H = load_route_names("hrtc_buses.csv")  # Haryana bus
-lists_AS = load_route_names("astc_buses.csv")  # Assam bus
-lists_UP = load_route_names("upsrtc_buses.csv")  # UP bus
-lists_WB = load_route_names("west_bengal_buses.csv")  # West Bengal bus
-
 # kerala bus
 lists_k=[]
 df_k=pd.read_csv("ksrtc_buses.csv")
