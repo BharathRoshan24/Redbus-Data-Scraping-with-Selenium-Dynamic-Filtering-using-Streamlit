@@ -43,10 +43,10 @@ for i,r in rsrtc_buses.iterrows():
 
 
 # Chandigarh bus 
-lists_SB=[]
+lists_Ch=[]
 ctu_buses=pd.read_csv("ctu_buses.csv")
-for i,r in df_SB.iterrows():
-    lists_SB.append(r["Route_name"])
+for i,r in ctu_buses.iterrows():
+    lists_Ch.append(r["Route_name"])
 
 # Haryana bus
 lists_H=[]
