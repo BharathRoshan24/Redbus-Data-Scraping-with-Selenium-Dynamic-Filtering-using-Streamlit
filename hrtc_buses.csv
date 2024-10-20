@@ -1,0 +1,81 @@
+Bus_name,Bus_type,Start_time,End_time,Total_duration,Price,Seats_Available,Ratings,Route_link,Route_name
+HRTC - 401670,Ordinary 3+2 Non AC Seater,18:00,22:00,04h 00m,INR 310,31 Seats available,"3.3
+24",https://www.redbus.in/bus-tickets/chandigarh-to-hamirpur-himachal-pradesh,Chandigarh to Hamirpur (Himachal Pradesh)
+HRTC - 1549,Ordinary 3+2 Non AC Seater,18:15,01:00,06h 45m,INR 362,37 Seats available,"4.8
+3",https://www.redbus.in/bus-tickets/chandigarh-to-hamirpur-himachal-pradesh,Chandigarh to Hamirpur (Himachal Pradesh)
+HRTC - 1001,A/C Executive (2+3),17:15,04:00,10h 45m,INR 692,42 Seats available,"3.5
+21",https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh,Chamba (Himachal Pradesh) to Chandigarh
+HRTC - 100,Himsuta AC Seater Volvo/Scania 2+2,17:40,04:00,10h 20m,INR 1181,35 Seats available,"4.1
+39",https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh,Chamba (Himachal Pradesh) to Chandigarh
+HRTC - 1007,Ordinary 3+2 Non AC Seater,19:00,05:40,10h 40m,INR 637,37 Seats available,"4.3
+41",https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh,Chamba (Himachal Pradesh) to Chandigarh
+HRTC - 1028,A/C Executive (2+3),20:15,07:15,11h 00m,INR 673,44 Seats available,"3.2
+95",https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh,Chamba (Himachal Pradesh) to Chandigarh
+HRTC - 531,Ordinary 3+2 Non AC Seater,17:50,10:00,16h 10m,INR 876,34 Seats available,"3.5
+43",https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh,Delhi to Chamba (Himachal Pradesh)
+HRTC - 590,A/C Executive (2+3),19:00,10:15,15h 15m,INR 1062,40 Seats available,"2.8
+67",https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh,Delhi to Chamba (Himachal Pradesh)
+HRTC - 84,Himsuta AC Seater Volvo/Scania 2+2,20:15,11:30,15h 15m,INR 1704,25 Seats available,"4.0
+81",https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh,Delhi to Chamba (Himachal Pradesh)
+HRTC - 578,Ordinary 3+2 Non AC Seater,22:10,18:35,20h 25m,INR 907,37 Seats available,"1.9
+4",https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh,Delhi to Chamba (Himachal Pradesh)
+HRTC - 401670,Ordinary 3+2 Non AC Seater,18:00,22:00,04h 00m,INR 310,31 Seats available,"3.3
+24",https://www.redbus.in/bus-tickets/chandigarh-to-hamirpur-himachal-pradesh,Chandigarh to Hamirpur (Himachal Pradesh)
+HRTC - 1549,Ordinary 3+2 Non AC Seater,18:15,01:00,06h 45m,INR 362,37 Seats available,"4.8
+3",https://www.redbus.in/bus-tickets/chandigarh-to-hamirpur-himachal-pradesh,Chandigarh to Hamirpur (Himachal Pradesh)
+HRTC - 1001,A/C Executive (2+3),17:15,04:00,10h 45m,INR 692,42 Seats available,"3.5
+21",https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh,Chamba (Himachal Pradesh) to Chandigarh
+HRTC - 100,Himsuta AC Seater Volvo/Scania 2+2,17:40,04:00,10h 20m,INR 1181,35 Seats available,"4.1
+39",https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh,Chamba (Himachal Pradesh) to Chandigarh
+HRTC - 1007,Ordinary 3+2 Non AC Seater,19:00,05:40,10h 40m,INR 637,37 Seats available,"4.3
+41",https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh,Chamba (Himachal Pradesh) to Chandigarh
+HRTC - 1028,A/C Executive (2+3),20:15,07:15,11h 00m,INR 673,44 Seats available,"3.2
+95",https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh,Chamba (Himachal Pradesh) to Chandigarh
+HRTC - 531,Ordinary 3+2 Non AC Seater,17:50,10:00,16h 10m,INR 876,34 Seats available,"3.5
+43",https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh,Delhi to Chamba (Himachal Pradesh)
+HRTC - 590,A/C Executive (2+3),19:00,10:15,15h 15m,INR 1062,40 Seats available,"2.8
+67",https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh,Delhi to Chamba (Himachal Pradesh)
+HRTC - 84,Himsuta AC Seater Volvo/Scania 2+2,20:15,11:30,15h 15m,INR 1704,25 Seats available,"4.0
+81",https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh,Delhi to Chamba (Himachal Pradesh)
+HRTC - 578,Ordinary 3+2 Non AC Seater,22:10,18:35,20h 25m,INR 907,37 Seats available,"1.9
+4",https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh,Delhi to Chamba (Himachal Pradesh)
+HRTC - 401670,Ordinary 3+2 Non AC Seater,18:00,22:00,04h 00m,INR 310,31 Seats available,"3.3
+24",https://www.redbus.in/bus-tickets/chandigarh-to-hamirpur-himachal-pradesh,Chandigarh to Hamirpur (Himachal Pradesh)
+HRTC - 1549,Ordinary 3+2 Non AC Seater,18:15,01:00,06h 45m,INR 362,37 Seats available,"4.8
+3",https://www.redbus.in/bus-tickets/chandigarh-to-hamirpur-himachal-pradesh,Chandigarh to Hamirpur (Himachal Pradesh)
+HRTC - 1001,A/C Executive (2+3),17:15,04:00,10h 45m,INR 692,42 Seats available,"3.5
+21",https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh,Chamba (Himachal Pradesh) to Chandigarh
+HRTC - 100,Himsuta AC Seater Volvo/Scania 2+2,17:40,04:00,10h 20m,INR 1181,35 Seats available,"4.1
+39",https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh,Chamba (Himachal Pradesh) to Chandigarh
+HRTC - 1007,Ordinary 3+2 Non AC Seater,19:00,05:40,10h 40m,INR 637,37 Seats available,"4.3
+41",https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh,Chamba (Himachal Pradesh) to Chandigarh
+HRTC - 1028,A/C Executive (2+3),20:15,07:15,11h 00m,INR 673,44 Seats available,"3.2
+95",https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh,Chamba (Himachal Pradesh) to Chandigarh
+HRTC - 531,Ordinary 3+2 Non AC Seater,17:50,10:00,16h 10m,INR 876,34 Seats available,"3.5
+43",https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh,Delhi to Chamba (Himachal Pradesh)
+HRTC - 590,A/C Executive (2+3),19:00,10:15,15h 15m,INR 1062,40 Seats available,"2.8
+67",https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh,Delhi to Chamba (Himachal Pradesh)
+HRTC - 84,Himsuta AC Seater Volvo/Scania 2+2,20:15,11:30,15h 15m,INR 1704,25 Seats available,"4.0
+81",https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh,Delhi to Chamba (Himachal Pradesh)
+HRTC - 578,Ordinary 3+2 Non AC Seater,22:10,18:35,20h 25m,INR 907,37 Seats available,"1.9
+4",https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh,Delhi to Chamba (Himachal Pradesh)
+HRTC - 401670,Ordinary 3+2 Non AC Seater,18:00,22:00,04h 00m,INR 310,31 Seats available,"3.3
+24",https://www.redbus.in/bus-tickets/chandigarh-to-hamirpur-himachal-pradesh,Chandigarh to Hamirpur (Himachal Pradesh)
+HRTC - 1549,Ordinary 3+2 Non AC Seater,18:15,01:00,06h 45m,INR 362,37 Seats available,"4.8
+3",https://www.redbus.in/bus-tickets/chandigarh-to-hamirpur-himachal-pradesh,Chandigarh to Hamirpur (Himachal Pradesh)
+HRTC - 1001,A/C Executive (2+3),17:15,04:00,10h 45m,INR 692,42 Seats available,"3.5
+21",https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh,Chamba (Himachal Pradesh) to Chandigarh
+HRTC - 100,Himsuta AC Seater Volvo/Scania 2+2,17:40,04:00,10h 20m,INR 1181,35 Seats available,"4.1
+39",https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh,Chamba (Himachal Pradesh) to Chandigarh
+HRTC - 1007,Ordinary 3+2 Non AC Seater,19:00,05:40,10h 40m,INR 637,37 Seats available,"4.3
+41",https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh,Chamba (Himachal Pradesh) to Chandigarh
+HRTC - 1028,A/C Executive (2+3),20:15,07:15,11h 00m,INR 673,44 Seats available,"3.2
+95",https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh,Chamba (Himachal Pradesh) to Chandigarh
+HRTC - 531,Ordinary 3+2 Non AC Seater,17:50,10:00,16h 10m,INR 876,34 Seats available,"3.5
+43",https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh,Delhi to Chamba (Himachal Pradesh)
+HRTC - 590,A/C Executive (2+3),19:00,10:15,15h 15m,INR 1062,40 Seats available,"2.8
+67",https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh,Delhi to Chamba (Himachal Pradesh)
+HRTC - 84,Himsuta AC Seater Volvo/Scania 2+2,20:15,11:30,15h 15m,INR 1704,25 Seats available,"4.0
+81",https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh,Delhi to Chamba (Himachal Pradesh)
+HRTC - 578,Ordinary 3+2 Non AC Seater,22:10,18:35,20h 25m,INR 907,37 Seats available,"1.9
+4",https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh,Delhi to Chamba (Himachal Pradesh)

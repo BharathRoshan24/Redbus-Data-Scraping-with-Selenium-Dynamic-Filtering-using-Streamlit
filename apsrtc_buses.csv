@@ -1,0 +1,369 @@
+Bus_name,Bus_type,Start_time,End_time,Total_duration,Price,Seats_Available,Ratings,Route_link,Route_name
+APSRTC - 2819,INDRA(A.C. Seater),14:30,17:30,03h 00m,INR 340,1 Seat available,"3.4
+105",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 2669,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:00,18:00,03h 00m,INR 281,14 Seats available,"3.0
+39",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 2532,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:10,19:45,04h 35m,INR 281,34 Seats available,"2.3
+3",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 3474,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:20,19:30,04h 10m,INR 281,28 Seats available,"5.0
+1",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 2689,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:30,18:30,03h 00m,INR 281,18 Seats available,"3.8
+29",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 24279,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:40,19:30,03h 50m,INR 281,31 Seats available,"3.8
+3",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 27129,METRO LUXURY A/C,16:00,19:05,03h 05m,INR 383,5 Seats available,"4.2
+103",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 2524,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:15,20:45,04h 30m,INR 281,34 Seats available,"2.4
+3",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 2695,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,19:30,03h 00m,INR 281,18 Seats available,"3.8
+44",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 3406,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:45,20:30,03h 45m,INR 281,20 Seats available,"3.8
+7",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 2891,INDRA(A.C. Seater),17:00,20:00,03h 00m,INR 340,15 Seats available,"3.5
+103",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 2534,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:15,21:45,04h 30m,INR 281,25 Seats available,"3.9
+7",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 2815,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:30,20:30,03h 00m,INR 281,25 Seats available,"3.7
+32",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 23527,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:45,22:15,04h 30m,INR 281,34 Seats available,"1.0
+2",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 27083,METRO LUXURY A/C,18:00,20:50,02h 50m,INR 383,11 Seats available,"4.2
+91",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 50194,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),14:50,21:00,06h 10m,INR 656,26 Seats available,"4.0
+107",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 50013,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:50,22:30,06h 40m,INR 439,31 Seats available,"3.6
+46",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 6005,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:50,23:30,06h 40m,INR 439,8 Seats available,"3.3
+38",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 5779,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:15,23:50,06h 35m,INR 439,27 Seats available,"2.9
+22",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 5226,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:45,01:30,07h 45m,INR 439,31 Seats available,3.7,https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 5296,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:00,02:00,08h 00m,INR 439,31 Seats available,"5.0
+2",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 7745,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:20,02:30,08h 10m,INR 439,31 Seats available,"2.5
+7",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 48484,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:20,02:45,07h 25m,INR 439,29 Seats available,"5.0
+2",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 46152,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,03:15,07h 15m,INR 439,31 Seats available,"2.7
+3",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 50079,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:35,03:15,06h 40m,INR 439,34 Seats available,"2.9
+28",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 6558,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:50,03:00,06h 10m,INR 439,31 Seats available,"4.1
+5",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 6017,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:20,04:00,06h 40m,INR 439,34 Seats available,"3.1
+57",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 50062,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:05,04:45,06h 40m,INR 439,27 Seats available,"3.8
+66",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 6241,"ULTRA DELUXE (NON-AC, 2+2 PUSH BACK)",22:20,04:30,06h 10m,INR 412,1 Seat available,"3.8
+65",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 9253,INDRA(A.C. Seater),22:35,05:15,06h 40m,INR 526,28 Seats available,"3.5
+92",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 5975,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,04:36,08h 36m,INR 590,1 Seat available,"2.5
+5",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 45901,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,04:20,07h 20m,INR 555,1 Seat available,"4.3
+51",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5725,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:20,04:45,07h 25m,INR 555,2 Seats available,"4.1
+20",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 48820,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:30,04:55,07h 25m,INR 555,1 Seat available,"4.1
+40",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5927,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:45,04:15,06h 30m,INR 555,1 Seat available,"4.3
+52",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5858,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:00,05:27,07h 27m,INR 555,3 Seats available,"3.0
+14",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5378,INDRA(A.C. Seater),22:00,04:34,06h 34m,INR 671,1 Seat available,"4.3
+132",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 48600,INDRA(A.C. Seater),22:15,04:43,06h 28m,INR 671,3 Seats available,"4.1
+92",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5862,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:15,05:25,07h 10m,INR 555,2 Seats available,"4.2
+46",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5869,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:15,04:45,06h 30m,INR 555,1 Seat available,"4.4
+42",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 48603,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),22:30,05:03,06h 33m,INR 852,5 Seats available,"4.2
+101",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5875,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,06:20,07h 50m,INR 555,2 Seats available,"4.0
+56",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5925,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:45,04:15,05h 30m,INR 555,1 Seat available,"4.0
+41",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5019,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),22:55,05:37,06h 42m,INR 855,3 Seats available,"3.1
+9",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5905,INDRA(A.C. Seater),23:00,05:50,06h 50m,INR 671,4 Seats available,"4.4
+99",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 50144,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,23:00,06h 30m,INR 439,16 Seats available,"2.5
+24",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 6018,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:15,00:15,07h 00m,INR 439,16 Seats available,"4.1
+6",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 6010,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,02:30,06h 30m,INR 439,6 Seats available,"2.9
+23",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 6240,"ULTRA DELUXE (NON-AC, 2+2 PUSH BACK)",21:00,04:00,07h 00m,INR 412,2 Seats available,"3.4
+28",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 6205,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:30,03:30,06h 00m,INR 439,3 Seats available,"4.0
+34",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 6073,INDRA(A.C. Seater),22:00,03:00,05h 00m,INR 526,3 Seats available,"3.9
+90",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 50181,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:15,04:50,06h 35m,INR 439,5 Seats available,"3.6
+70",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 6207,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,04:26,05h 56m,INR 439,3 Seats available,"3.9
+48",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 6065,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:45,04:35,05h 50m,INR 439,1 Seat available,"4.0
+42",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 5283,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:50,05:00,06h 10m,INR 439,1 Seat available,"1.3
+9",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 48516,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:30,05:10,05h 40m,INR 439,1 Seat available,"4.5
+18",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 9254,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:30,05:30,06h 00m,INR 439,4 Seats available,"3.6
+96",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 6008,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),23:45,04:20,04h 35m,INR 656,4 Seats available,"4.4
+106",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 5272,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:50,06:00,06h 10m,INR 439,4 Seats available,"2.7
+19",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 47236,Express(Non AC Seater),16:15,21:00,04h 45m,INR 200,1 Seat available,"4.6
+31",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore
+APSRTC - 9003,Express(Non AC Seater),20:00,00:25,04h 25m,INR 186,8 Seats available,"4.5
+39",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore
+APSRTC - 9041,Express(Non AC Seater),21:00,01:25,04h 25m,INR 220,6 Seats available,"4.2
+31",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore
+APSRTC - 9061,Express(Non AC Seater),21:45,01:10,03h 25m,INR 170,3 Seats available,"4.1
+37",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore
+APSRTC - 5524,Express(Non AC Seater),22:45,03:05,04h 20m,INR 215,1 Seat available,"4.6
+40",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore
+APSRTC - 5528,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:59,05:15,05h 16m,INR 304,9 Seats available,"3.9
+21",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore
+APSRTC - 23904,"ULTRA DELUXE (NON-AC, 2+2 PUSH BACK)",14:45,19:00,04h 15m,INR 269,33 Seats available,"2.4
+2",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 24278,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:55,18:30,03h 35m,INR 281,24 Seats available,"3.6
+22",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 2529,INDRA(A.C. Seater),15:00,18:45,03h 45m,INR 340,4 Seats available,"4.0
+70",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 2541,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:45,20:00,04h 15m,INR 281,30 Seats available,"4.2
+23",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 23532,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:15,20:35,04h 20m,INR 281,24 Seats available,"3.5
+24",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 2201,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:45,21:00,04h 15m,INR 281,33 Seats available,"2.4
+2",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 3353,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:48,20:20,03h 32m,INR 281,22 Seats available,"2.8
+30",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 2542,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:15,21:35,04h 20m,INR 281,34 Seats available,"2.7
+10",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 3437,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:23,21:30,04h 07m,INR 281,34 Seats available,"2.4
+24",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 3715,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:30,22:40,05h 10m,INR 250,34 Seats available,"2.3
+3",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 2215,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:45,22:05,04h 20m,INR 281,34 Seats available,"2.7
+4",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 2818,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:10,21:40,03h 30m,INR 281,27 Seats available,"1.8
+27",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 2834,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:40,22:15,03h 35m,INR 281,34 Seats available,"1.5
+10",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 2668,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:40,22:10,03h 30m,INR 281,34 Seats available,"1.9
+21",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 3713,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:10,23:59,04h 49m,INR 281,33 Seats available,"3.7
+8",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 2819,INDRA(A.C. Seater),14:30,17:30,03h 00m,INR 340,1 Seat available,"3.4
+105",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 2669,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:00,18:00,03h 00m,INR 281,14 Seats available,"3.0
+39",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 2532,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:10,19:45,04h 35m,INR 281,34 Seats available,"2.3
+3",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 3474,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:20,19:30,04h 10m,INR 281,28 Seats available,"5.0
+1",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 2689,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:30,18:30,03h 00m,INR 281,18 Seats available,"3.8
+29",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 24279,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:40,19:30,03h 50m,INR 281,31 Seats available,"3.8
+3",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 27129,METRO LUXURY A/C,16:00,19:05,03h 05m,INR 383,5 Seats available,"4.2
+103",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 2524,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:15,20:45,04h 30m,INR 281,34 Seats available,"2.4
+3",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 2695,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,19:30,03h 00m,INR 281,18 Seats available,"3.8
+44",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 3406,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:45,20:30,03h 45m,INR 281,20 Seats available,"3.8
+7",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 2891,INDRA(A.C. Seater),17:00,20:00,03h 00m,INR 340,15 Seats available,"3.5
+103",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 2534,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:15,21:45,04h 30m,INR 281,25 Seats available,"3.9
+7",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 2815,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:30,20:30,03h 00m,INR 281,25 Seats available,"3.7
+32",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 23527,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:45,22:15,04h 30m,INR 281,34 Seats available,"1.0
+2",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 27083,METRO LUXURY A/C,18:00,20:50,02h 50m,INR 383,11 Seats available,"4.2
+91",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 50194,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),14:50,21:00,06h 10m,INR 656,26 Seats available,"4.0
+107",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 50013,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:50,22:30,06h 40m,INR 439,31 Seats available,"3.6
+46",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 6005,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:50,23:30,06h 40m,INR 439,8 Seats available,"3.3
+38",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 5779,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:15,23:50,06h 35m,INR 439,27 Seats available,"2.9
+22",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 5226,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:45,01:30,07h 45m,INR 439,31 Seats available,3.7,https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 5296,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:00,02:00,08h 00m,INR 439,31 Seats available,"5.0
+2",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 7745,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:20,02:30,08h 10m,INR 439,31 Seats available,"2.5
+7",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 48484,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:20,02:45,07h 25m,INR 439,29 Seats available,"5.0
+2",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 46152,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,03:15,07h 15m,INR 439,31 Seats available,"2.7
+3",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 50079,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:35,03:15,06h 40m,INR 439,34 Seats available,"2.9
+28",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 6558,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:50,03:00,06h 10m,INR 439,31 Seats available,"4.1
+5",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 6017,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:20,04:00,06h 40m,INR 439,34 Seats available,"3.1
+57",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 50062,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:05,04:45,06h 40m,INR 439,27 Seats available,"3.8
+66",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 6241,"ULTRA DELUXE (NON-AC, 2+2 PUSH BACK)",22:20,04:30,06h 10m,INR 412,1 Seat available,"3.8
+65",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 9253,INDRA(A.C. Seater),22:35,05:15,06h 40m,INR 526,28 Seats available,"3.5
+92",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 5975,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,04:36,08h 36m,INR 590,1 Seat available,"2.5
+5",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 45901,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,04:20,07h 20m,INR 555,1 Seat available,"4.3
+51",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5725,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:20,04:45,07h 25m,INR 555,2 Seats available,"4.1
+20",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 48820,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:30,04:55,07h 25m,INR 555,1 Seat available,"4.1
+40",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5927,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:45,04:15,06h 30m,INR 555,1 Seat available,"4.3
+52",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5858,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:00,05:27,07h 27m,INR 555,3 Seats available,"3.0
+14",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5378,INDRA(A.C. Seater),22:00,04:34,06h 34m,INR 671,1 Seat available,"4.3
+132",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 48600,INDRA(A.C. Seater),22:15,04:43,06h 28m,INR 671,3 Seats available,"4.1
+92",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5869,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:15,04:45,06h 30m,INR 555,1 Seat available,"4.4
+42",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5862,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:15,05:25,07h 10m,INR 555,2 Seats available,"4.2
+46",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 48603,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),22:30,05:03,06h 33m,INR 852,5 Seats available,"4.2
+101",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5875,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,06:20,07h 50m,INR 555,2 Seats available,"4.0
+56",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5925,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:45,04:15,05h 30m,INR 555,1 Seat available,"4.0
+41",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5019,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),22:55,05:37,06h 42m,INR 855,3 Seats available,"3.1
+9",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5905,INDRA(A.C. Seater),23:00,05:50,06h 50m,INR 671,4 Seats available,"4.4
+99",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 50144,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,23:00,06h 30m,INR 439,16 Seats available,"2.5
+24",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 6018,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:15,00:15,07h 00m,INR 439,16 Seats available,"4.1
+6",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 6010,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,02:30,06h 30m,INR 439,6 Seats available,"2.9
+23",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 6240,"ULTRA DELUXE (NON-AC, 2+2 PUSH BACK)",21:00,04:00,07h 00m,INR 412,2 Seats available,"3.4
+28",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 6205,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:30,03:30,06h 00m,INR 439,3 Seats available,"4.0
+34",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 6073,INDRA(A.C. Seater),22:00,03:00,05h 00m,INR 526,3 Seats available,"3.9
+90",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 50181,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:15,04:50,06h 35m,INR 439,5 Seats available,"3.6
+70",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 6207,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,04:26,05h 56m,INR 439,3 Seats available,"3.9
+48",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 6065,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:45,04:35,05h 50m,INR 439,1 Seat available,"4.0
+42",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 5283,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:50,05:00,06h 10m,INR 439,1 Seat available,"1.3
+9",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 48516,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:30,05:10,05h 40m,INR 439,1 Seat available,"4.5
+18",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 9254,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:30,05:30,06h 00m,INR 439,4 Seats available,"3.6
+96",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 6008,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),23:45,04:20,04h 35m,INR 656,4 Seats available,"4.4
+106",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 5272,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:50,06:00,06h 10m,INR 439,4 Seats available,"2.7
+19",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 47236,Express(Non AC Seater),16:15,21:00,04h 45m,INR 200,1 Seat available,"4.6
+31",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore
+APSRTC - 9003,Express(Non AC Seater),20:00,00:25,04h 25m,INR 186,8 Seats available,"4.5
+39",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore
+APSRTC - 9041,Express(Non AC Seater),21:00,01:25,04h 25m,INR 220,6 Seats available,"4.2
+31",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore
+APSRTC - 9061,Express(Non AC Seater),21:45,01:10,03h 25m,INR 170,3 Seats available,"4.1
+37",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore
+APSRTC - 5524,Express(Non AC Seater),22:45,03:05,04h 20m,INR 215,1 Seat available,"4.6
+40",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore
+APSRTC - 5528,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:59,05:15,05h 16m,INR 304,9 Seats available,"3.9
+21",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore
+APSRTC - 24278,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:55,18:30,03h 35m,INR 281,24 Seats available,"3.6
+22",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 2529,INDRA(A.C. Seater),15:00,18:45,03h 45m,INR 340,3 Seats available,"4.0
+70",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 2541,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:45,20:00,04h 15m,INR 281,30 Seats available,"4.2
+23",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 23532,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:15,20:35,04h 20m,INR 281,24 Seats available,"3.5
+24",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 2201,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:45,21:00,04h 15m,INR 281,33 Seats available,"2.4
+2",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 2819,INDRA(A.C. Seater),14:30,17:30,03h 00m,INR 340,1 Seat available,"3.4
+105",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 2669,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:00,18:00,03h 00m,INR 281,14 Seats available,"3.0
+39",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 2532,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:10,19:45,04h 35m,INR 281,34 Seats available,"2.3
+3",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 50194,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),14:50,21:00,06h 10m,INR 656,25 Seats available,"4.0
+107",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 50013,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:50,22:30,06h 40m,INR 439,31 Seats available,"3.6
+46",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 6005,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:50,23:30,06h 40m,INR 439,8 Seats available,"3.3
+38",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 5975,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,04:36,08h 36m,INR 590,1 Seat available,"2.5
+5",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 45901,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,04:20,07h 20m,INR 555,1 Seat available,"4.3
+51",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5725,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:20,04:45,07h 25m,INR 555,2 Seats available,"4.1
+20",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 50144,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,23:00,06h 30m,INR 439,16 Seats available,"2.5
+24",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 6018,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:15,00:15,07h 00m,INR 439,16 Seats available,"4.1
+6",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 6010,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,02:30,06h 30m,INR 439,6 Seats available,"2.9
+23",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore
+APSRTC - 47236,Express(Non AC Seater),16:15,21:00,04h 45m,INR 200,1 Seat available,"4.6
+31",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore
+APSRTC - 9003,Express(Non AC Seater),20:00,00:25,04h 25m,INR 186,8 Seats available,"4.5
+39",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore
+APSRTC - 9041,Express(Non AC Seater),21:00,01:25,04h 25m,INR 220,6 Seats available,"4.2
+31",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore
+APSRTC - 9061,Express(Non AC Seater),21:45,01:10,03h 25m,INR 170,3 Seats available,"4.1
+37",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore
+APSRTC - 24278,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:55,18:30,03h 35m,INR 281,24 Seats available,"3.6
+22",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 2529,INDRA(A.C. Seater),15:00,18:45,03h 45m,INR 340,3 Seats available,"4.0
+70",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 2541,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:45,20:00,04h 15m,INR 281,30 Seats available,"4.2
+23",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 2819,INDRA(A.C. Seater),14:30,17:30,03h 00m,INR 340,3 Seats available,"3.4
+105",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 2669,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:00,18:00,03h 00m,INR 281,14 Seats available,"3.0
+39",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 2532,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:10,19:45,04h 35m,INR 281,34 Seats available,"2.3
+3",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam
+APSRTC - 50194,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),14:50,21:00,06h 10m,INR 656,25 Seats available,"4.0
+107",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 50013,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:50,22:30,06h 40m,INR 439,31 Seats available,"3.6
+46",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 6005,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:50,23:30,06h 40m,INR 439,8 Seats available,"3.3
+38",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa
+APSRTC - 5975,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,04:36,08h 36m,INR 590,1 Seat available,"2.5
+5",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 45901,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,04:20,07h 20m,INR 555,1 Seat available,"4.3
+51",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 5725,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:20,04:45,07h 25m,INR 555,2 Seats available,"4.1
+20",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad
+APSRTC - 47236,Express(Non AC Seater),16:15,21:00,04h 45m,INR 200,1 Seat available,"4.6
+31",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore
+APSRTC - 9003,Express(Non AC Seater),20:00,00:25,04h 25m,INR 186,8 Seats available,"4.5
+39",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore
+APSRTC - 9041,Express(Non AC Seater),21:00,01:25,04h 25m,INR 220,6 Seats available,"4.2
+31",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore
+APSRTC - 9061,Express(Non AC Seater),21:45,01:10,03h 25m,INR 170,3 Seats available,"4.1
+37",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore
+APSRTC - 24278,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:55,18:30,03h 35m,INR 281,24 Seats available,"3.6
+22",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 2529,INDRA(A.C. Seater),15:00,18:45,03h 45m,INR 340,3 Seats available,"4.0
+70",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
+APSRTC - 2541,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:45,20:00,04h 15m,INR 281,30 Seats available,"4.2
+23",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada
