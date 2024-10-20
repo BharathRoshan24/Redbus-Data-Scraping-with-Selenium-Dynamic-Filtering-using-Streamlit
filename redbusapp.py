@@ -27,67 +27,17 @@ lists_AS = load_route_names("df_AS.csv")  # Assam bus
 lists_UP = load_route_names("df_UP.csv")  # UP bus
 lists_WB = load_route_names("df_WB.csv")  # West Bengal bus
 
-# Setting Streamlit page
-st.set_page_config(layout="wide", page_icon=":material/directions_bus:", page_title="RedBus Project", initial_sidebar_state="expanded")
+#setting up streamlit page
+slt.set_page_config(layout="wide")
 
-# Background image for the app
-st.markdown(
-    f"""
-    <style>
-    .stApp {{
-        background-image: url("https://images.hdqwalls.com/wallpapers/bus-retro-56.jpg");
-        background-size: cover; 
-        background-position: center; 
-        background-repeat: no-repeat; 
-        background-attachment: fixed; 
-        height: 100vh; 
-        width: 100vw; 
-    }}
-    </style>
-    """,
-    unsafe_allow_html=True
-)
-
-# Sidebar styling
-st.markdown(
-    """
-    <style>
-    [data-testid="stSidebar"] {{
-        background-color: #60191900; 
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-    }}
-    </style>
-    """,
-    unsafe_allow_html=True
-)
-
-st.markdown(
-    """
-    <style>
-    /* Ensure font size does not change on hover */
-    .nav-link {
-        font-size: 18px !important;
-    }
-    .nav-link:hover {
-        font-size: 18px !important;
-        color: #32789e !important; /* Change only the color on hover */
-    }
-    .nav-link-selected {
-        font-size: 20px !important;
-    }
-    </style>
-    """, unsafe_allow_html=True
-)
-
-# Sidebar menu for navigation
-with st.sidebar:
-    web = option_menu("Menu", ["Home", "Data Analysis"], default_index=0)
+web=option_menu(menu_title="🚌OnlineBus",
+                options=["Home","📍States and Routes"],
+                icons=["house","info-circle"],
+                orientation="horizontal"
+                )
 
 # Home page setting
 if web == "Home":
-    st.image("t_500x300.jpg", width=200)
     st.title("Redbus Data Scraping with Selenium & Dynamic Filtering using Streamlit")
     st.subheader(":blue[Domain:] Transportation")
     st.subheader(":blue[Objective:] ")
