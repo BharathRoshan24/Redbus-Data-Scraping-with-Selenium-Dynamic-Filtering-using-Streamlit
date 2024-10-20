@@ -17,7 +17,7 @@ def load_route_names(file_path):
 
 # Loading bus route names
 lists_k = load_route_names("df_k.csv")  # Kerala bus
-lists_A = load_route_names("df_A.csv")  # Andhra bus
+lists_A = load_route_names("df_a.csv")  # Andhra bus
 lists_T = load_route_names("df_T.csv")  # Telangana bus
 lists_g = load_route_names("df_G.csv")  # Goa bus
 lists_R = load_route_names("df_R.csv")  # Rajasthan bus
