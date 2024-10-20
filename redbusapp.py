@@ -6,7 +6,7 @@
 
 # Importing libraries
 import pandas as pd
-import streamlit as st
+import streamlit as slt
 from streamlit_option_menu import option_menu
 import plotly.express as px
 
