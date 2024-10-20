@@ -104,10 +104,10 @@ if web == "📍States and Routes":
     "Kerala - KSRTC",
     "Andhra Pradesh - APSRTC",
     "Telangana - TSRTC",
-    "Goa - GSTC",
+    "Goa - KTCL",
     "Rajasthan - RSRTC",
     "Chandigarh - CTU",
-    "Haryana - Haryana Roadways",
+    "Haryana - HRTC",
     "Assam - ASTC",
     "Uttar Pradesh - UPSRTC",
     "West Bengal - WBTC"
@@ -123,7 +123,7 @@ if web == "📍States and Routes":
 
     # Function to filter bus fare based on state and route
         # Kerala bus fare filtering
-    if S == "Kerala":
+    if S == "Kerala - KSRTC":
         K = slt.selectbox("List of routes",lists_k)
 
         def type_and_fare(bus_type, fare_range):
@@ -166,7 +166,7 @@ if web == "📍States and Routes":
         slt.dataframe(df_result)
 
     # Adhra Pradesh bus fare filtering
-    if S=="Adhra Pradesh":
+    if S=="Andhra Pradesh - APSRTC":
         A=slt.selectbox("list of routes",lists_A)
 
         def type_and_fare_A(bus_type, fare_range):
@@ -210,7 +210,7 @@ if web == "📍States and Routes":
           
 
     # Telugana bus fare filtering
-    if S=="Telugana":
+    if S=="Telangana - TSRTC":
         T=slt.selectbox("list of routes",lists_T)
 
         def type_and_fare_T(bus_type, fare_range):
@@ -253,7 +253,7 @@ if web == "📍States and Routes":
         slt.dataframe(df_result)
 
     # Goa bus fare filtering
-    if S=="Goa":
+    if S=="Goa - KTCL":
         G=slt.selectbox("list of routes",lists_g)
 
         def type_and_fare_G(bus_type, fare_range):
@@ -296,7 +296,7 @@ if web == "📍States and Routes":
         slt.dataframe(df_result)
 
     # Rajastan bus fare filtering
-    if S=="Rajastan":
+    if S=="Rajasthan - RSRTC":
         R=slt.selectbox("list of routes",lists_R)
 
         def type_and_fare_R(bus_type, fare_range):
@@ -340,7 +340,7 @@ if web == "📍States and Routes":
           
 
     # Chandigarh bus fare filtering       
-    if S=="Chandigarh":
+    if S=="Chandigarh - CTU":
         Ch=slt.selectbox("list of rotes",lists_Ch)
 
         def type_and_fare_SB(bus_type, fare_range):
@@ -383,7 +383,7 @@ if web == "📍States and Routes":
         slt.dataframe(df_result)
     
     # Haryana bus fare filtering
-    if S=="Haryana":
+    if S=="Haryana - HRTC":
         H=slt.selectbox("list of rotes",lists_H)
 
         def type_and_fare_H(bus_type, fare_range):
@@ -427,7 +427,7 @@ if web == "📍States and Routes":
 
 
     # Assam bus fare filtering
-    if S=="Assam":
+    if S=="Assam - ASTC":
         AS=slt.selectbox("list of rotes",lists_AS)
 
         def type_and_fare_AS(bus_type, fare_range):
@@ -470,7 +470,7 @@ if web == "📍States and Routes":
         slt.dataframe(df_result)
 
     # Utrra Pradesh bus fare filtering
-    if S=="Utrra Pradesh":
+    if S=="Uttar Pradesh - UPSRTC":
         UP=slt.selectbox("list of rotes",lists_UP)
 
         def type_and_fare_UP(bus_type, fare_range):
@@ -513,7 +513,7 @@ if web == "📍States and Routes":
         slt.dataframe(df_result)
 
     # West Bengal bus fare filtering
-    if S=="West Bengal":
+    if S=="West Bengal - WBTC":
         WB=slt.selectbox("list of rotes",lists_WB)
 
         def type_and_fare_WB(bus_type, fare_range):
