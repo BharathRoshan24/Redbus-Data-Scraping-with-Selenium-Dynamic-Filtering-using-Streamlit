@@ -9,6 +9,7 @@ import pandas as pd
 import streamlit as slt
 from streamlit_option_menu import option_menu
 import plotly.express as px
+import mysql.connector
 
 # Function to load route names from CSV
 def load_route_names(file_path):
