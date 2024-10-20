@@ -13,62 +13,62 @@ import mysql.connector
 
 # kerala bus
 lists_k=[]
-df_k=pd.read_csv("ksrtc_buses.csv")
+ksrtc_buses=pd.read_csv("ksrtc_buses.csv")
 for i,r in ksrtc_buses.iterrows():
     lists_k.append(r["Route_name"])
 
 #Andhra bus
 lists_A=[]
-df_A=pd.read_csv("apsrtc_buses.csv")
+apsrtc_buses=pd.read_csv("apsrtc_buses.csv")
 for i,r in apsrtc_buses.iterrows():
     lists_A.append(r["Route_name"])
 
 #Telungana bus
 lists_T=[]
-df_T=pd.read_csv("tgsrtc_buses.csv")
+tgsrtc_buses=pd.read_csv("tgsrtc_buses.csv")
 for i,r in tgsrtc_buses.iterrows():
     lists_T.append(r["Route_name"])
 
 #Goa bus
 lists_g=[]
-df_G=pd.read_csv("ktcl_buses.csv")
+ktcl_buses=pd.read_csv("ktcl_buses.csv")
 for i,r in ktcl_buses.iterrows():
     lists_g.append(r["Route_name"])
 
 #Rajastan bus
 lists_R=[]
-df_R=pd.read_csv("rsrtc_buses.csv")
+rsrtc_buses=pd.read_csv("rsrtc_buses.csv")
 for i,r in rsrtc_buses.iterrows():
     lists_R.append(r["Route_name"])
 
 
 # Chandigarh bus 
 lists_SB=[]
-df_SB=pd.read_csv("ctu_buses.csv")
+ctu_buses=pd.read_csv("ctu_buses.csv")
 for i,r in df_SB.iterrows():
     lists_SB.append(r["Route_name"])
 
 # Haryana bus
 lists_H=[]
-df_H=pd.read_csv("hrtc_buses.csv")
+hrtc_buses=pd.read_csv("hrtc_buses.csv")
 for i,r in hrtc_buses.iterrows():
     lists_H.append(r["Route_name"])
 
 #Assam bus
 lists_AS=[]
-df_AS=pd.read_csv("astc_buses.csv")
+astc_buses=pd.read_csv("astc_buses.csv")
 for i,r in astc_buses.iterrows():
     lists_AS.append(r["Route_name"])
 
 #UP bus
 lists_UP=[]
-df_UP=pd.read_csv("upsrtc_buses.csv")
+upsrtc_buses=pd.read_csv("upsrtc_buses.csv")
 for i,r in upsrtc_buses.iterrows():
     lists_UP.append(r["Route_name"])
 
 #West bengal bus
 lists_WB=[]
-df_WB=pd.read_csv("west_bengal_buses.csv")
+west_bengal_buses=pd.read_csv("west_bengal_buses.csv")
 for i,r in west_bengal_buses.iterrows():
     lists_WB.append(r["Route_name"])
     
