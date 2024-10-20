@@ -17,17 +17,78 @@ def load_route_names(file_path):
     return df["Route_name"].tolist()
 
 # Loading bus route names
-lists_k = load_route_names("df_k.csv")  # Kerala bus
-lists_A = load_route_names("df_a.csv")  # Andhra bus
-lists_T = load_route_names("df_T.csv")  # Telangana bus
-lists_g = load_route_names("df_G.csv")  # Goa bus
-lists_R = load_route_names("df_R.csv")  # Rajasthan bus
-lists_Ch = load_route_names("df_ch.csv")  # South Bengal bus
-lists_H = load_route_names("df_H.csv")  # Haryana bus
-lists_AS = load_route_names("df_AS.csv")  # Assam bus
-lists_UP = load_route_names("df_UP.csv")  # UP bus
-lists_WB = load_route_names("df_WB.csv")  # West Bengal bus
+lists_k = load_route_names("ksrtc_buses.csv")  # Kerala bus
+lists_A = load_route_names("apsrtc_buses.csv")  # Andhra bus
+lists_T = load_route_names("tgsrtc_buses.csv")  # Telangana bus
+lists_g = load_route_names("ktcl_buses.csv")  # Goa bus
+lists_R = load_route_names("rsrtc_buses.csv")  # Rajasthan bus
+lists_Ch = load_route_names("ctu_buses.csv")  # Chandigarh bus
+lists_H = load_route_names("hrtc_buses.csv")  # Haryana bus
+lists_AS = load_route_names("astc_buses.csv")  # Assam bus
+lists_UP = load_route_names("upsrtc_buses.csv")  # UP bus
+lists_WB = load_route_names("west_bengal_buses.csv")  # West Bengal bus
 
+# kerala bus
+lists_k=[]
+df_k=pd.read_csv("ksrtc_buses.csv")
+for i,r in ksrtc_buses.iterrows():
+    lists_k.append(r["Route_name"])
+
+#Andhra bus
+lists_A=[]
+df_A=pd.read_csv("apsrtc_buses.csv")
+for i,r in apsrtc_buses.iterrows():
+    lists_A.append(r["Route_name"])
+
+#Telungana bus
+lists_T=[]
+df_T=pd.read_csv("tgsrtc_buses.csv")
+for i,r in tgsrtc_buses.iterrows():
+    lists_T.append(r["Route_name"])
+
+#Goa bus
+lists_g=[]
+df_G=pd.read_csv("ktcl_buses.csv")
+for i,r in ktcl_buses.iterrows():
+    lists_g.append(r["Route_name"])
+
+#Rajastan bus
+lists_R=[]
+df_R=pd.read_csv("rsrtc_buses.csv")
+for i,r in rsrtc_buses.iterrows():
+    lists_R.append(r["Route_name"])
+
+
+# Chandigarh bus 
+lists_SB=[]
+df_SB=pd.read_csv("ctu_buses.csv")
+for i,r in df_SB.iterrows():
+    lists_SB.append(r["Route_name"])
+
+# Haryana bus
+lists_H=[]
+df_H=pd.read_csv("hrtc_buses.csv")
+for i,r in hrtc_buses.iterrows():
+    lists_H.append(r["Route_name"])
+
+#Assam bus
+lists_AS=[]
+df_AS=pd.read_csv("astc_buses.csv")
+for i,r in astc_buses.iterrows():
+    lists_AS.append(r["Route_name"])
+
+#UP bus
+lists_UP=[]
+df_UP=pd.read_csv("upsrtc_buses.csv")
+for i,r in upsrtc_buses.iterrows():
+    lists_UP.append(r["Route_name"])
+
+#West bengal bus
+lists_WB=[]
+df_WB=pd.read_csv("west_bengal_buses.csv")
+for i,r in west_bengal_buses.iterrows():
+    lists_WB.append(r["Route_name"])
+    
 #setting up streamlit page
 slt.set_page_config(layout="wide")
 
@@ -56,8 +117,19 @@ if web=="Home":
 
 # States and Routes page setting
 if web == "📍States and Routes":
-    S = slt.selectbox("Lists of States", ["Kerala", "Adhra Pradesh", "Telugana", "Goa", "Rajastan", 
-                                          "Chandigarh", "Haryana", "Assam", "Uttar Pradesh", "West Bengal"])
+    S = slt.selectbox("Lists of States", [
+    "Kerala - KSRTC",
+    "Andhra Pradesh - APSRTC",
+    "Telangana - TSRTC",
+    "Goa - GSTC",
+    "Rajasthan - RSRTC",
+    "Chandigarh - CTU",
+    "Haryana - Haryana Roadways",
+    "Assam - ASTC",
+    "Uttar Pradesh - UPSRTC",
+    "West Bengal - WBTC"
+])
+
     
     col1, col2 = slt.columns(2)
     with col1:
